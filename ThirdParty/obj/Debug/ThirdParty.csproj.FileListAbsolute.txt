@@ -1,0 +1,6 @@
+C:\Gurjits\jobs\Style Analytics\BadProject\ThirdParty\bin\Debug\ThirdParty.dll
+C:\Gurjits\jobs\Style Analytics\BadProject\ThirdParty\bin\Debug\ThirdParty.pdb
+C:\Gurjits\jobs\Style Analytics\BadProject\ThirdParty\obj\Debug\ThirdParty.csprojAssemblyReference.cache
+C:\Gurjits\jobs\Style Analytics\BadProject\ThirdParty\obj\Debug\ThirdParty.csproj.CoreCompileInputs.cache
+C:\Gurjits\jobs\Style Analytics\BadProject\ThirdParty\obj\Debug\ThirdParty.dll
+C:\Gurjits\jobs\Style Analytics\BadProject\ThirdParty\obj\Debug\ThirdParty.pdb

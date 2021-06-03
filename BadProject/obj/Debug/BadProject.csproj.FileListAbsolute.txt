@@ -1,0 +1,10 @@
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\obj\Debug\BadProject.csprojAssemblyReference.cache
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\obj\Debug\BadProject.csproj.CoreCompileInputs.cache
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\bin\Debug\BadProject.dll.config
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\bin\Debug\BadProject.dll
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\bin\Debug\BadProject.pdb
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\bin\Debug\ThirdParty.dll
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\bin\Debug\ThirdParty.pdb
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\obj\Debug\BadProject.csproj.CopyComplete
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\obj\Debug\BadProject.dll
+C:\Gurjits\jobs\Style Analytics\BadProject\BadProject\obj\Debug\BadProject.pdb
